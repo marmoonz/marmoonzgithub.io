@@ -1,0 +1,75 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+ body {
+ background-color: #003b36; 
+ 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #Ece5f0;
+font-family: 'IBM Plex Mono', monospace;
+}
+h3{
+  color: #012622;
+font-family: 'IBM Plex Mono', monospace;
+}
+h2{
+font-family: 'IBM Plex Mono', monospace;
+background-color: #003b36  
+}  
+
+
+/* STYLE IMAGES */
+img {
+  padding-top: 30px;
+}
+
+/* STYLE NAV BAR */
+}
+button:hover {
+}
+a {
+  text-decoration: none;
+  color: #DEE3DE;
+}
+.button {
+  background-color: pink;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+nav {
+  text-align: right;
+  padding: 20px;
+  background-color: #012622;
+  font-size: 25px;
+  border-size: 5px;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color:  #DEE3DE;
+  font-family: 'IBM Plex Mono', monospace;
+}
+ p {
+  font-family: 'IBM Plex Mono', monospace; 
+   color: #Ece5f0;
+}  
+  
+
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
+
